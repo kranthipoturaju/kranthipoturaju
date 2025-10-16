@@ -1,4 +1,4 @@
-## Hi there 👋
+## [Kranthi Poturaju](https://www.linkedin.com/in/kranthipoturaju/) 🏆
 
 <!--
 **kranthipoturaju/kranthipoturaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
