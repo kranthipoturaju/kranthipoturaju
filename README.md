@@ -1,4 +1,7 @@
-# [Kranthi Poturaju](https://www.linkedin.com/in/kranthipoturaju/) 🏆
+<h1 align="center"><a href="https://www.linkedin.com/in/kranthipoturaju">Kranthi Poturaju</a></h1>
+<p align="center">Full-stack Engineer • Java/JavaScript/Python</p>
+<p align="center">OSS Contributor • Delivering GitHub Actions Solutions • Pursuing Data Science & Artificial Intelligence</p>
+
 
 <!--
 **kranthipoturaju/kranthipoturaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
